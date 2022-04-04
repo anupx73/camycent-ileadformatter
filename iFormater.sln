@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iFormater", "application\iFormater.vcproj", "{49C5AB75-99CA-4AC5-8B5A-3C09713F2347}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Updater", "updater\updater.vcproj", "{C226AEA2-69B0-45E9-BA1A-7D9BF3E69566}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRCChecker", "CRCChecker\CRCChecker.vcproj", "{B0040100-3B09-480D-86A7-69544F5A7FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C5AB75-99CA-4AC5-8B5A-3C09713F2347}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49C5AB75-99CA-4AC5-8B5A-3C09713F2347}.Debug|Win32.Build.0 = Debug|Win32
+		{49C5AB75-99CA-4AC5-8B5A-3C09713F2347}.Release|Win32.ActiveCfg = Release|Win32
+		{49C5AB75-99CA-4AC5-8B5A-3C09713F2347}.Release|Win32.Build.0 = Release|Win32
+		{C226AEA2-69B0-45E9-BA1A-7D9BF3E69566}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C226AEA2-69B0-45E9-BA1A-7D9BF3E69566}.Debug|Win32.Build.0 = Debug|Win32
+		{C226AEA2-69B0-45E9-BA1A-7D9BF3E69566}.Release|Win32.ActiveCfg = Release|Win32
+		{C226AEA2-69B0-45E9-BA1A-7D9BF3E69566}.Release|Win32.Build.0 = Release|Win32
+		{B0040100-3B09-480D-86A7-69544F5A7FE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0040100-3B09-480D-86A7-69544F5A7FE7}.Debug|Win32.Build.0 = Debug|Win32
+		{B0040100-3B09-480D-86A7-69544F5A7FE7}.Release|Win32.ActiveCfg = Release|Win32
+		{B0040100-3B09-480D-86A7-69544F5A7FE7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
